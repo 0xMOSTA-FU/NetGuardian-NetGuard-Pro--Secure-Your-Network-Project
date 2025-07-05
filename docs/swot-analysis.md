@@ -44,7 +44,7 @@ It provides a **structured way to evaluate a project, product, startup, or busin
 
 
 
-![image](https://github.com/user-attachments/assets/a9fc455a-47d3-4e0c-938f-4b528b929b60)
+![image](https://github.com/user-attachments/assets/f65fe0ba-8ba3-438d-b481-ee0627b8c47d)
 
 
 ---
