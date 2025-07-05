@@ -1,6 +1,5 @@
 # NetGuardian-Secure-Your-Network-Project
 
----
 
 ````markdown
 #  NetGuard Pro – Advanced Network & Security Toolkit
@@ -182,5 +181,4 @@ Connect with me:
 
 > “NetGuard Pro is more than just a scanner. It's your **AI-powered network ally** in the palm of your hand.”
 
-```
 
