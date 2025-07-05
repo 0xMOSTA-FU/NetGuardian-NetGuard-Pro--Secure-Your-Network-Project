@@ -1,6 +1,4 @@
 
----
-
 ##  What is a SWOT Analysis?
 
 **SWOT Analysis** is a strategic planning technique used to help organizations or teams identify and understand:
