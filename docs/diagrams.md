@@ -1,4 +1,4 @@
-```
+```mermaid
 graph TD;
     A[Launch App] --> B{Select Mode};
     B --> C[Network Sniffing];
